@@ -5,6 +5,10 @@ using namespace std;
 #define FORk(i,a,b,k) for(int i=(a); i<(b); i+=k)
 #define RFOR(i,a,b) for(int i=(a); i>=(b); i--)
 #define RFORk(i,a,b,k) for(int i=(a); i>=(b); i-=k)
+#define pb push_back
+typedef vector<int>v;
+typedef vector<string>vs;
+typedef long long int ll;
 
 void solve(){
     
