@@ -9,10 +9,20 @@ input
 3       how much equation u have 
 2 4 8    means u have eq 2x+4y=8
 
-if we change value of y in line 31 then we will find another solution
+if we change value of y in  then we will find another solution
 
  ax+by =c
- has integral solution iff c is divisible by gcd(a,b)
+ has integral solution iff c is divisible by gcd(a,b) .
+ then ax+by=g  or ax+by=kg is alaso a solution  , where g=gcd(a,b)
+  then c=k*g where k is any integer .
+  if original solution of ax+by=c is x,y then solution of ax+by=ghave solution
+  kx,ky .  so we print our final solution are (c/g)*x  , (c/g)*y 
+
+now ax+by=g goes to solution of bx+(a%b)y=g and so on when mutiple of y become 0
+at last when y become 0 then multiple of x automatically become g ,
+gx+0y=g ,x=1 and y can be any value .
+pass solution to find parent eqation solution .
+
 */
 #include<bits/stdc++.h>
 using namespace std;

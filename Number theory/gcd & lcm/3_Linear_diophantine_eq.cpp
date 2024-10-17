@@ -47,4 +47,5 @@ int main() {
 
 /*
 Problem Statement/Link: (CW) https://www.spoj.com/problems/CEQU/
+leetcode question(1250)
 */
