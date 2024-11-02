@@ -5,9 +5,9 @@
 
 // ax+by=c , gcd(a,b) = g
 // g((a/g)x+(b/g)y)=c
-// general solutiuon is 
+// general solutiuon is
 // (x,y)=(x1 + (b/g)k , y1-(a/g) k)
-// x1,y1 is one solution 
+// x1,y1 is one solution  
 
 #include<bits/stdc++.h>
 using namespace std;
