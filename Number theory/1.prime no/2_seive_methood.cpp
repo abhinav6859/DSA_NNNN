@@ -26,7 +26,7 @@ void sieve (){
 }
 void solve(){
     sieve();
-    FOR(i,1,151){            //  (155 is just value ,u take ur own)
+    FOR(i,1,151){            //  (151 is just value ,u take ur own)
 if(pr[i]) cout<<i<<endl;
     } 
 }
