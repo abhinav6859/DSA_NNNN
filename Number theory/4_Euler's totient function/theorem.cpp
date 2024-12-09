@@ -12,7 +12,7 @@ phi(7)=6 . {1,2,3,4,5,6}
 
 * phi(n)<n, if n>1
 
-* Phi(p^k)=p^k(p-1) where p is prime 
+* Phi(p^k)=p^k(1-1/p) where p is prime 
 
 * phi(a*b)=phi(a)*phi(b)  if gcd(a,b)=1
 
