@@ -50,7 +50,7 @@ int phi(int n){
  if(n%i==0){
  while (n%i==0)
  {
- n=n/i;
+ n=n/i;                                       
  }
  ans=ans-ans/i;
  }
