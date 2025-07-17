@@ -1,3 +1,9 @@
+//https://www.geeksforgeeks.org/dsa/introduction-to-linked-list-data-structure/
+
+
+// The size of memory can be allocated or
+//  de-allocated at run time based on the operation insertion or deletion.
+// Linked list is a linear data structure where elements are not stored at contiguous memory locations.
 #include <iostream>
 using namespace std;
 
